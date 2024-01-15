@@ -5,7 +5,7 @@
 
 ### I am a Front-end developer with more than a year of commercial experience in development. My passion for technology and my insatiable desire to grow professionally help me create quality and efficient user interfaces. I have experience both in creating projects from scratch and in fixing bugs in someone else’s code.
 
-## <a href="" rel="nofollow"><img src="https://camo.githubusercontent.com/4fbffc06d373901c9cbd87f382f76b872ac97f9783effd992fcdb1af57bbe8f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43562d3841324245323f7374796c653d666f722d7468652d6261646765" alt="CV" data-canonical-src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge" style="max-width: 100%;"></a>
+## <a href="https://drive.google.com/file/d/1lWe9R16eXwXjW6vGfi_1MHhKE4kYJtYs/view?usp=drive_link" rel="nofollow"><img src="https://camo.githubusercontent.com/4fbffc06d373901c9cbd87f382f76b872ac97f9783effd992fcdb1af57bbe8f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43562d3841324245323f7374796c653d666f722d7468652d6261646765" alt="CV" data-canonical-src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge" style="max-width: 100%;"></a>
 
 ### I appreciate the opportunity to work in a team where teamwork and knowledge sharing lead to outstanding results. I am interested in server rendering (SSR) tasks, and I am always open to new challenges that allow me to expand my skills and knowledge.
 
