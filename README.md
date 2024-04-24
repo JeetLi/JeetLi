@@ -5,7 +5,6 @@
 
 ### I am a Front-end developer with more than a year of commercial experience in development. My passion for technology and my insatiable desire to grow professionally help me create quality and efficient user interfaces. I have experience both in creating projects from scratch and in fixing bugs in someone else’s code.
 
-## <a href="https://drive.google.com/file/d/1lWe9R16eXwXjW6vGfi_1MHhKE4kYJtYs/view?usp=drive_link" rel="nofollow"><img src="" alt="CV" data-canonical-src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge" style="max-width: 100%;"></a>
 
 ### I appreciate the opportunity to work in a team where teamwork and knowledge sharing lead to outstanding results. I am interested in server rendering (SSR) tasks, and I am always open to new challenges that allow me to expand my skills and knowledge.
 
