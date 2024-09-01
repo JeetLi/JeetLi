@@ -14,7 +14,7 @@
 <ul>
 <li>HTML / CSS / SCSS / CSS Modules / BEM</li>
 <li>JS / TS</li>
-<li>React JS (CC, FC, Hooks)</li>
+<li>Next/React JS (CC, FC, Hooks)</li>
 <li>Redux (Thunk / RTK / Saga)</li>
 <li>
 REST (Axios)</li>
